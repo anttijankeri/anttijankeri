@@ -18,7 +18,8 @@ Passionate about crafting elegant solutions in TypeScript for both frontend and 
     Collaborative Teamwork
 
 🌐 GitHub Stats:
-https://github.com/anttijankeri
+
+[![Antti's GitHub stats](https://github-readme-stats.vercel.app/api?username=anttijankeri)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect with me and let's build something extraordinary!
 
