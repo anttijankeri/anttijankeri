@@ -4,6 +4,7 @@ Passionate about crafting elegant solutions in TypeScript for both frontend and 
 
 🛠️ Tech Stack:
 
+    Languages: Typescript, Javascript
     Frontend: React, Nextjs, Redux, Vite
     Backend: Node, Express
     Databases: PostgreSQL, MongoDB
